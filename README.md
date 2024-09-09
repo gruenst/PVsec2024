@@ -1,2 +1,2 @@
-# PVsec2024
-Data sets for Poster "IRRADIANCE TRANSPOSITION AND REFLECTION IN BIPV INSTALLATIONS", PVsec (2024)
+# IRRADIANCE TRANSPOSITION AND REFLECTION IN BIPV INSTALLATIONS
+Data sets of irradiance sensors for 3 different sites in central Europe
